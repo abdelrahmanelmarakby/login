@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86716554768",
+    "firebase_url": "https://elzeboon.firebaseio.com",
+    "project_id": "elzeboon",
+    "storage_bucket": "elzeboon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86716554768:android:d4f0734d4d4aeabc277495",
+        "android_client_info": {
+          "package_name": "com.elmarakbeno.elzeboon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86716554768-688fjusk5okrhp3671tms63dos21iidq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRUB3Rujo4J16G10CiLuAXqFUsFwLIrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86716554768-688fjusk5okrhp3671tms63dos21iidq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
